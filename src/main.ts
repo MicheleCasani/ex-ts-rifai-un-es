@@ -131,3 +131,4 @@ getDashboardData('london')
     // GESTIONE ERRORI: Se qualcosa va storto, stampo l'errore
     console.error('Errore nella funzione getDashboardData:', error);
   });
+
